@@ -16,9 +16,9 @@ This repository provides an overview of the analog IC design project. Due to the
 
 ## Google Drive Contents
 - **All_Project_Screenshots**: Screenshots of the design process, including schematics, layouts, and simulation results in Cadence Virtuoso.
-- **Final_Report**: A detailed document (PDF or Word) covering project objectives, design methodology, results, and analysis.
+- **Final_Report**: A detailed document covering project objectives, design methodology, results, and analysis.
 - **Library_Cadence-Virtuoso**: Cadence Virtuoso library files with cell designs, schematics, layouts, and other raw project files.
-- **readme.markdown**: A Markdown file with additional details about the Google Drive files and usage instructions.
+- **readme.markdown**: A Markdown file with additional details about the project.
 
 ## Accessing Google Drive Files
 Use the [Google Drive link](https://drive.google.com/drive/folders/1qMyxcCUvIAACHnXmk3WgWktIx5LZQ4Ua?usp=sharing) to access the project files. Ensure you have Cadence Virtuoso for design files, a PDF/Word viewer for the report, and an image viewer for screenshots. Refer to the `readme.markdown` in the Drive folder for specific instructions.
