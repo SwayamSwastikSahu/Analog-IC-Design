@@ -21,7 +21,7 @@ This repository provides an overview of the analog IC design project. Due to the
 - **readme.markdown**: A Markdown file with additional details about the project.
 
 ## Accessing Google Drive Files
-Use the [Google Drive link](https://drive.google.com/drive/folders/1qMyxcCUvIAACHnXmk3WgWktIx5LZQ4Ua?usp=sharing) to access the project files. Ensure you have Cadence Virtuoso for design files, a PDF/Word viewer for the report, and an image viewer for screenshots. Refer to the `readme.markdown` in the Drive folder for specific instructions.
+Use the [Google Drive link](https://drive.google.com/drive/folders/1qMyxcCUvIAACHnXmk3WgWktIx5LZQ4Ua?usp=sharing) to access the project files. Ensure you have Cadence Virtuoso for design files, a PDF/Word viewer for the report, and an image viewer for screenshots. Refer to the `readme.markdown` in the Drive folder or Final_Report project details.
 
 ## Contact
 For questions or feedback, reach out to [swayamswastiksahu@gmail.com](mailto:swayamswastiksahu@gmail.com).
